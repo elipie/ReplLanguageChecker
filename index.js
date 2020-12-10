@@ -10,5 +10,5 @@ async function getReplLangs(username, repl) {
 
   console.log(info)
 }
-
+// if you run this, you will see the `languages` key. We need to check that.
 getReplLangs('elipie', 'e-2')
